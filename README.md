@@ -1,27 +1,11 @@
-<!-- AXIOM SYSTEMS - PERFIL ABSOLUTO -->
-
 <p align="center">
-  <img src="https://img.shields.io/badge/AXIOM-SYSTEMS-00ff66?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIiB2aWV3Qm94PSIwIDAgMTAwIDEwMCI+PHJlY3Qgd2lkdGg9IjEwMCIgaGVpZ2h0PSIxMDAiIGZpbGw9IiMwMGZmNjYiLz48dGV4dCB4PSI1MCIgeT0iNTUiIGZvbnQtc2l6ZT0iNTAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IiMwNTA2MDgiIGZvbnQtZmFtaWx5PSJBcmlhbCI+QTwvdGV4dD48L3N2Zz4=" />
+  <img src="https://img.shields.io/badge/AXIOM-SYSTEMS-00e5ff?style=for-the-badge" />
 </p>
 
-<h2 align="center" style="color: #00ff66; font-family: 'Fira Code', monospace;">AXIOM SYSTEMS</h2>
-
 <p align="center">
-  <span style="color: #00e5ff;">DESPLIEGUES DETERMINISTAS AL SILICIO</span>
-</p>
-
-<br>
-
-<p align="center">
-  <a href="https://x.com/ManuelAxiom">
-    <img src="https://img.shields.io/badge/X-@MANUELAXIOM-00e5ff?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
-  <a href="https://axiom-systemstech.github.io/axiom-systems/">
-    <img src="https://img.shields.io/badge/CONTACTO-EMAIL-00ff66?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://axiom-systemstech.github.io/axiomsuite/">
-    <img src="https://img.shields.io/badge/WEB-AXIOM_SUITE-ff90e8?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-  </a>
+  <img src="https://img.shields.io/badge/X-@MANUELAXIOM-00e5ff?style=for-the-badge&logo=x&logoColor=white" />
+  <img src="https://img.shields.io/badge/CONTACTO-EMAIL-00ff66?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/WEB-AXIOM_SUITE-ff90e8?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </p>
 
 ## 📊 ESTADÍSTICAS DE GITHUB
