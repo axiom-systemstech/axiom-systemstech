@@ -14,50 +14,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=axiom-systemstech&layout=compact&theme=tokyonight&title_color=00ff66&text_color=ffffff&bg_color=050608" />
 </p>
 
-<!-- EL ECOSISTEMA AXIOM (Estilo Profesional) -->
-<h2 align="center" style="color: #00ff66;">⚡ EL ECOSISTEMA AXIOM</h2>
+## ⚡ EL ECOSISTEMA AXIOM
 
-<table align="center">
-  <tr>
-    <th style="border: 1px solid #00e5ff; padding: 8px;">DOMINIO</th>
-    <th style="border: 1px solid #00e5ff; padding: 8px;">HERRAMIENTA</th>
-    <th style="border: 1px solid #00e5ff; padding: 8px;">¿PARA QUÉ?</th>
-  </tr>
-  <tr>
-    <td style="border: 1px solid #00e5ff; padding: 8px;">🧠 IA</td>
-    <td style="border: 1px solid #00e5ff; padding: 8px;"><code>axiom-news-summarizer</code></td>
-    <td style="border: 1px solid #00e5ff; padding: 8px;">Resúmenes de noticias con IA local</td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid #00e5ff; padding: 8px;">📄 DOCS</td>
-    <td style="border: 1px solid #00e5ff; padding: 8px;"><code>axiom-pdf-toolkit</code></td>
-    <td style="border: 1px solid #00e5ff; padding: 8px;">Manipulación de PDFs desde terminal</td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid #00e5ff; padding: 8px;">📡 DATA</td>
-    <td style="border: 1px solid #00e5ff; padding: 8px;"><code>axiomreachhub</code></td>
-    <td style="border: 1px solid #00e5ff; padding: 8px;">Consola de datos libres para agentes</td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid #00e5ff; padding: 8px;">🎯 AGENTS</td>
-    <td style="border: 1px solid #00e5ff; padding: 8px;"><code>axiomagentskillsregistry</code></td>
-    <td style="border: 1px solid #00e5ff; padding: 8px;">Orquestador de skills para agentes IA</td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid #00e5ff; padding: 8px;">🐦 SOCIAL</td>
-    <td style="border: 1px solid #00e5ff; padding: 8px;"><code>axiomvoidpulsetwitter</code></td>
-    <td style="border: 1px solid #00e5ff; padding: 8px;">Analizador de tweets antes de publicar</td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid #00e5ff; padding: 8px;">🔧 CORE</td>
-    <td style="border: 1px solid #00e5ff; padding: 8px;"><code>axiom_megacore_fusion</code></td>
-    <td style="border: 1px solid #00e5ff; padding: 8px;">Motor de simulación con 21 estados síncronos</td>
-  </tr>
-</table>
+**Un universo de herramientas soberanas en expansión.**
 
-<br>
+🔗 **Explora todos los proyectos:**  
+👉 [github.com/axiom-systemstech](https://github.com/axiom-systemstech?tab=repositories)
 
-<!-- LA VISIÓN (Estilo Cita) -->
+*"Construimos el futuro, un repositorio a la vez."*
+
+
 <h2 align="center" style="color: #00ff66;">🌌 LA VISIÓN</h2>
 
 <div align="center">
