@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/axiom-systemstech/axiom-systems/main/assets/axiom-logo.png" width="150" />
+  <img src="https://raw.githubusercontent.com/axiom-systemstech/axion-systemstech/main/assets/axiom-logo.png" width="150" />
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/X-@MANUELAXIOM-00e5ff?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
   <a href="https://axiom-systemstech.github.io/axiom-systems/">
-    <img src="https://img.shields.io/badge/EMAIL-CONTACTO-00ff66?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CONTACTO-EMAIL-00ff66?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://axiom-systemstech.github.io/axiomsuite/">
     <img src="https://img.shields.io/badge/WEB-AXIOM_SUITE-ff90e8?style=for-the-badge&logo=github&logoColor=white"/>
