@@ -2,6 +2,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF66&center=true&vCenter=true&width=600&lines=MANUEL+ECHAPARES;AXIOM+SYSTEMS;LA+CREACIÓN+ABSOLUTA;SOBERANÍA+TECNOLÓGICA" alt="Typing SVG" />
 </p>
+<p align="center"> <a href="https://x.com/ManuelAxiom"><img src="https://img.shields.io/badge/X-@ManuelAxiom-00e5ff?style=for-the-badge&logo=x&logoColor=white"/></a> <a href="https://axiom-systemstech.github.io/axiom-systems/"><img src="https://img.shields.io/badge/EMAIL-CONTACTO-00ff66?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://github.com/axiom-systemstech/axiom-systems"><img src="https://img.shields.io/badge/WEB-AXIOM_SUITE-ff90e8?style=for-the-badge&logo=github&logoColor=white"/></a> </p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF66&center=true&vCenter=true&width=500&lines=SOBERANÍA+EN+EL+SILICIO;LA+CREACIÓN+ABSOLUTA;MANUEL+-+AXIOM+SYSTEMS" alt="Typing SVG" /> </p> ```
 
 <p align="center">
   <img src="https://img.shields.io/badge/ARQUITECTO-RUST-00ff66?style=for-the-badge&logo=rust&logoColor=white"/>
@@ -9,8 +11,7 @@
   <img src="https://img.shields.io/badge/CÓDIGO-LIBRE-ff90e8?style=for-the-badge&logo=opensourceinitiative&logoColor=white"/>
 </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=axiom-systemstech&show_icons=true&theme=tokyonight&title_color=00ff66&icon_color=00e5ff&text_color=ffffff&bg_color=050608" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=axiom-systemstech&layout=compact&theme=tokyonight&title_color=00ff66&text_color=ffffff&bg_color=050608" width="48%" /> </p>
-<p align="center"> <a href="https://x.com/ManuelAxiom"><img src="https://img.shields.io/badge/X-@ManuelAxiom-00e5ff?style=for-the-badge&logo=x&logoColor=white"/></a> <a href="https://axiom-systemstech.github.io/axiom-systems/"><img src="https://img.shields.io/badge/EMAIL-CONTACTO-00ff66?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://github.com/axiom-systemstech/axiom-systems"><img src="https://img.shields.io/badge/WEB-AXIOM_SUITE-ff90e8?style=for-the-badge&logo=github&logoColor=white"/></a> </p>
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF66&center=true&vCenter=true&width=500&lines=SOBERANÍA+EN+EL+SILICIO;LA+CREACIÓN+ABSOLUTA;MANUEL+-+AXIOM+SYSTEMS" alt="Typing SVG" /> </p> ```
+
 
 ---
 
