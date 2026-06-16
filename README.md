@@ -25,7 +25,7 @@
 ║                     MOTORES EN RUST · IA LOCAL · CÓDIGO ABIERTO               ║
 ║                                                                               ║
 ╚═══════════════════════════════════════════════════════════════════════════════╝
-## 🧠 LA MENTE DETRÁS DEL METAL
+🧠 LA MENTE DETRÁS DEL METAL
 ┌─────────────────────────────────────────────────────────────────────────────┐
 │                                                                             │
 │   "No construyo para vender. Construyo para LIBERAR.                        │
