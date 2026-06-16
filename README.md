@@ -1,16 +1,24 @@
-## Hi there 👋
+# 🧐 Manuel Echepares | AXIOM Systems ◤A-S◢
 
-<!--
-**axiom-systemstech/axiom-systemstech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 Estadísticas de GitHub
 
-Here are some ideas to get you started:
+- **Total repositorios:** 105+
+- **Total estrellas:** 
+- **Total commits (último año):**
+- **Lenguajes más usados:** Rust, Python, HTML, JavaScript, C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Proyectos destacados
+
+- [axiom-news-summarizer](https://github.com/axiom-systemstech/axiom-news-summarizer) - Resúmenes de noticias con IA
+- [axiom-pdf-toolkit](https://github.com/axiom-systemstech/axiom-pdf-toolkit) - Manipulación de PDFs desde terminal
+- [axiomreachhub](https://github.com/axiom-systemstech/axiomreachhub) - Consola de datos libres para agentes
+
+## 🎯 Filosofía
+
+> "Código abierto. Tecnología soberana. Herramientas para la gente, no para las corporaciones."
+
+## 📫 Contacto
+
+- X: [@ManuelAxiom](https://x.com/ManuelAxiom)
+- Email: echeparesmanuel36@gmail.com
+- Web: [axiom-systemstech.github.io/axiom-systems](https://axiom-systemstech.github.io/axiom-systems/)
