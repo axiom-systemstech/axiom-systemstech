@@ -14,65 +14,59 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=axiom-systemstech&layout=compact&theme=tokyonight&title_color=00ff66&text_color=ffffff&bg_color=050608" />
 </p>
 
+<!-- EL ECOSISTEMA AXIOM (Estilo Profesional) -->
+<h2 align="center" style="color: #00ff66;">⚡ EL ECOSISTEMA AXIOM</h2>
 
----
+<table align="center">
+  <tr>
+    <th style="border: 1px solid #00e5ff; padding: 8px;">DOMINIO</th>
+    <th style="border: 1px solid #00e5ff; padding: 8px;">HERRAMIENTA</th>
+    <th style="border: 1px solid #00e5ff; padding: 8px;">¿PARA QUÉ?</th>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #00e5ff; padding: 8px;">🧠 IA</td>
+    <td style="border: 1px solid #00e5ff; padding: 8px;"><code>axiom-news-summarizer</code></td>
+    <td style="border: 1px solid #00e5ff; padding: 8px;">Resúmenes de noticias con IA local</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #00e5ff; padding: 8px;">📄 DOCS</td>
+    <td style="border: 1px solid #00e5ff; padding: 8px;"><code>axiom-pdf-toolkit</code></td>
+    <td style="border: 1px solid #00e5ff; padding: 8px;">Manipulación de PDFs desde terminal</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #00e5ff; padding: 8px;">📡 DATA</td>
+    <td style="border: 1px solid #00e5ff; padding: 8px;"><code>axiomreachhub</code></td>
+    <td style="border: 1px solid #00e5ff; padding: 8px;">Consola de datos libres para agentes</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #00e5ff; padding: 8px;">🎯 AGENTS</td>
+    <td style="border: 1px solid #00e5ff; padding: 8px;"><code>axiomagentskillsregistry</code></td>
+    <td style="border: 1px solid #00e5ff; padding: 8px;">Orquestador de skills para agentes IA</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #00e5ff; padding: 8px;">🐦 SOCIAL</td>
+    <td style="border: 1px solid #00e5ff; padding: 8px;"><code>axiomvoidpulsetwitter</code></td>
+    <td style="border: 1px solid #00e5ff; padding: 8px;">Analizador de tweets antes de publicar</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #00e5ff; padding: 8px;">🔧 CORE</td>
+    <td style="border: 1px solid #00e5ff; padding: 8px;"><code>axiom_megacore_fusion</code></td>
+    <td style="border: 1px solid #00e5ff; padding: 8px;">Motor de simulación con 21 estados síncronos</td>
+  </tr>
+</table>
 
-```text
-╔═══════════════════════════════════════════════════════════════════════════════╗
-║                                                                               ║
-║   █████╗ ██╗  ██╗██╗ ██████╗ ███╗   ███╗     ██████╗ ███████╗                ║
-║  ██╔══██╗╚██╗██╔╝██║██╔═══██╗████╗ ████║    ██╔═══██╗██╔════╝                ║
-║  ███████║ ╚███╔╝ ██║██║   ██║██╔████╔██║    ██║   ██║███████╗                ║
-║  ██╔══██║ ██╔██╗ ██║██║   ██║██║╚██╔╝██║    ██║   ██║╚════██║                ║
-║  ██║  ██║██╔╝ ██╗██║╚██████╔╝██║ ╚═╝ ██║    ╚██████╔╝███████║                ║
-║  ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝ ╚═════╝ ╚═╝     ╚═╝     ╚═════╝ ╚══════╝                ║
-║                                                                               ║
-║                     SISTEMAS OPERATIVOS SOBERANOS                             ║
-║                     MOTORES EN RUST · IA LOCAL · CÓDIGO ABIERTO               ║
-║                                                                               ║
-╚═══════════════════════════════════════════════════════════════════════════════╝
-🧠 LA MENTE DETRÁS DEL METAL
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                                                                             │
-│   "No construyo para vender. Construyo para LIBERAR.                        │
-│    El código es mi voz. El silicio, mi lienzo.                              │
-│    La soberanía digital, mi misión."                                        │
-│                                                                             │
-│                              — Manuel, Fundador de AXIOM SYSTEMS            │
-│                                                                             │
-└─────────────────────────────────────────────────────────────────────────────┘
-⚡ EL ECOSISTEMA AXIOM
-DOMINIO	HERRAMIENTA	¿PARA QUÉ?
-🧠 IA	axiom-news-summarizer	Resúmenes de noticias con IA local
-📄 DOCS	axiom-pdf-toolkit	Manipulación de PDFs desde terminal
-📡 DATA	axiomreachhub	Consola de datos libres para agentes
-🎯 AGENTS	axiomagentskillsregistry	Orquestador de skills para agentes IA
-🐦 SOCIAL	axiomvoidpulsetwitter	Analizador de tweets antes de publicar
-🔧 CORE	axiom_megacore_fusion	Motor de simulación con 21 estados síncronos
+<br>
 
-📊 LA HUELLA DIGITAL
-╔═══════════════════════════════════════════════════════════════════════════════╗
-║                                                                               ║
-║   📦 REPOSITORIOS: 105+     ⭐ ESTRELLAS: CRECIENDO     🦀 RUST: 40%           ║
-║   🐍 PYTHON: 25%            🕸️ HTML/JS: 25%            ⚙️ ASSEMBLY: 5%         ║
-║                                                                               ║
-║   🚀 PAQUETES EN PyPI: 2 (y subiendo)                                        ║
-║   🔧 MOTORES RUST: 15+     🌐 WEBS DEMO: 50+                                  ║
-║   📡 PROYECTOS DE IA: 10+  🔒 PROYECTOS DE SEGURIDAD: 8+                      ║
-║                                                                               ║
-╚═══════════════════════════════════════════════════════════════════════════════╝
+<!-- LA VISIÓN (Estilo Cita) -->
+<h2 align="center" style="color: #00ff66;">🌌 LA VISIÓN</h2>
 
-🌌 LA VISIÓN
-╔═══════════════════════════════════════════════════════════════════════════════╗
-║                                                                               ║
-║   El mundo se digitaliza. Los datos son el nuevo petróleo.                    ║
-║   Las corporaciones vigilan. Los gobiernos controlan.                         ║
-║                                                                               ║
-║   AXIOM SYSTEMS es la RESPUESTA.                                              ║
-║                                                                               ║
-║   Código soberano. Tecnología libre. Herramientas para todos.                 ║
-║   Sin nubes. Sin vigilancia. Sin límites.                                     ║
-║                                                                               ║
-║   Únete. Construye. Libera.                                                   ║
-║                                                                               ║
-╚═══════════════════════════════════════════════════════════════════════════════╝
+<div align="center">
+  <blockquote style="border-left: 4px solid #00e5ff; background-color: #0D0F16; padding: 20px; border-radius: 8px; color: #ffffff;">
+    <p>El mundo se digitaliza. Los datos son el nuevo petróleo.<br>
+    Las corporaciones vigilan. Los gobiernos controlan.</p>
+    <p style="color: #00ff66; font-weight: bold;">AXIOM SYSTEMS es la RESPUESTA.</p>
+    <p>Código soberano. Tecnología libre. Herramientas para todos.<br>
+    Sin nubes. Sin vigilancia. Sin límites.</p>
+    <p><strong>Únete. Construye. Libera.</strong></p>
+  </blockquote>
+</div>
