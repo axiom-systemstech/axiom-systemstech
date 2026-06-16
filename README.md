@@ -1,4 +1,7 @@
-<!-- AXION SYSTEMS - PERFIL ABSOLUTO -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/axiom-systemstech/axiom-systems/main/assets/axiom-logo.png" width="150" />
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF66&center=true&vCenter=true&width=600&lines=MANUEL+ECHAPARES;AXIOM+SYSTEMS;LA+CREACIÓN+ABSOLUTA" alt="Typing SVG" />
 </p>
