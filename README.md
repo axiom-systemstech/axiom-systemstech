@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/axiom-systemstech/axion-systemstech/main/assets/axiom-logo.png" width="150" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF66&center=true&vCenter=true&width=600&lines=MANUEL+ECHAPARES;AXIOM+SYSTEMS;LA+CREACIÓN+ABSOLUTA" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/AXIOM-SYSTEMS-00ff66?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIiB2aWV3Qm94PSIwIDAgMTAwIDEwMCI+PHJlY3Qgd2lkdGg9IjEwMCIgaGVpZ2h0PSIxMDAiIGZpbGw9IiMwMGZmNjYiLz48dGV4dCB4PSI1MCIgeT0iNTUiIGZvbnQtc2l6ZT0iNTAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IiMwNTA2MDgiIGZvbnQtZmFtaWx5PSJBcmlhbCI+QTwvdGV4dD48L3N2Zz4=" />
 </p>
 
 <p align="center">
@@ -14,12 +10,8 @@
     <img src="https://img.shields.io/badge/CONTACTO-EMAIL-00ff66?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://axiom-systemstech.github.io/axiomsuite/">
-    <img src="https://img.shields.io/badge/WEB-AXIOM_SUITE-ff90e8?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/WEB-AXIOM_SUITE-ff90e8?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF66&center=true&vCenter=true&width=500&lines=ARQUITECTO+RUST;SOBERANÍA+DIGITAL;CÓDIGO+LIBRE" alt="Typing SVG" />
 </p>
 
 ## 📊 ESTADÍSTICAS DE GITHUB
