@@ -8,11 +8,10 @@
   <img src="https://img.shields.io/badge/WEB-AXIOM_SUITE-ff90e8?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </p>
 
-## 📊 ESTADÍSTICAS DE GITHUB
+## 📊 LENGUAJES MÁS USADOS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=axiom-systemstech&show_icons=true&theme=tokyonight&title_color=00ff66&icon_color=00e5ff&text_color=ffffff&bg_color=050608" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=axiom-systemstech&layout=compact&theme=tokyonight&title_color=00ff66&text_color=ffffff&bg_color=050608" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=axiom-systemstech&layout=compact&theme=tokyonight&title_color=00ff66&text_color=ffffff&bg_color=050608" />
 </p>
 
 
