@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/badge/SOBERANÍA-DIGITAL-00e5ff?style=for-the-badge&logo=matrix&logoColor=white"/>
   <img src="https://img.shields.io/badge/CÓDIGO-LIBRE-ff90e8?style=for-the-badge&logo=opensourceinitiative&logoColor=white"/>
 </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=axiom-systemstech&show_icons=true&theme=tokyonight&title_color=00ff66&icon_color=00e5ff&text_color=ffffff&bg_color=050608" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=axiom-systemstech&layout=compact&theme=tokyonight&title_color=00ff66&text_color=ffffff&bg_color=050608" width="48%" /> </p>
 
 ---
 
